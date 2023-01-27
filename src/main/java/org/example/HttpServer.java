@@ -49,10 +49,6 @@ public class HttpServer {
             serverSocket.close();
     }
 
-    public static String htmlSimple() {
-        return "d";
-    }
-
     public static String htmlWithForms() {
         return "<!DOCTYPE html>\n" +
                 "<html>\n" +

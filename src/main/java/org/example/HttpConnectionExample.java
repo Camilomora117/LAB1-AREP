@@ -10,7 +10,7 @@ import java.net.URL;
 public class HttpConnectionExample {
 
     private static final String USER_AGENT = "Mozilla/5.0";
-    private static final String GET_URL = "http://localhost:35000/unarchivo.html";
+    private static final String GET_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=b63096b1";
 
     public static void main(String[] args) throws IOException {
 
